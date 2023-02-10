@@ -1,7 +1,7 @@
 /** 
  * ================================================================
- * Name: 
- * Section: 
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Header for Double-Linked List Library
  *
  * Instructions:  Complete the implementation file for this header file
